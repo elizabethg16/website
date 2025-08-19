@@ -65,7 +65,7 @@ const CameraFocus = ({ targetRef, selectedPlanet, resetTrigger }) => {
       controlsRef.current.update()
     }
   })
-//testing
+//testing123
   return <OrbitControls ref={controlsRef} enablePan={false} enableZoom={false} enableRotate />
 }
 
